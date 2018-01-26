@@ -1,0 +1,72 @@
+
+        * {
+            font-family: 'Roboto Condensed', sans-serif;
+        }
+        
+        body {
+            padding-top: 5rem;
+        }
+
+        .starter-template {
+            padding: 3rem 1.5rem;
+            text-align: center;
+        }
+            
+        .blueCrystal {
+            float: left;
+            display: inline;
+            margin: 25px 0px;
+            
+            }
+        
+        .whiteCrystal {
+            display: inline;
+             margin: 60px 0px;
+            }
+        
+        .pinkCrystal {
+            display: inline;
+             margin: 60px 0px;
+            }
+            
+        .purpleCrystal {
+            display: inline;
+            margin: 60px 0px;
+            }
+        
+        .targetNumber, .userTotal {
+            font-weight: 600;
+            font-size: 18px;
+            margin: 60px auto 20px auto;
+            color: #08739b;
+        }
+
+        .totalWins, .totalLosses {
+            font-weight: 600;
+            font-size: 18px;
+            margin: 30px auto 40px auto;
+            color: #08739b;
+        }
+        
+        .lead {
+            color: #0d4f66;
+            margin: 20px 0 10px;
+            
+        }
+        
+        .mainText {
+            color: #005e7d;
+        }
+        
+        .startText {
+            color: #0d4f66;
+            font-size: 18px;
+            margin-top: 40px;
+        }
+        
+        .titleText {
+            color: #08739b;
+            font-weight: 600;
+        }
+        
+        
